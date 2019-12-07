@@ -1,0 +1,28 @@
+2017-12-23 19:45:00.8759   (Program.cs:25) System.IO.FileNotFoundException: Could not find file 'D:\WorkProjects\Config\StartConfig\192.168.10.224.txt'.
+File name: 'D:\WorkProjects\Config\StartConfig\192.168.10.224.txt'
+   at System.IO.FileStream.OpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Model.StartConfigComponent.Awake(String path, Int32 appId) in D:\WorkProjects\Server\Model\Component\StartConfigComponent.cs:line 39
+   at Model.StartConfigComponentEvent.Awake(String a, Int32 b) in D:\WorkProjects\Server\Model\Component\StartConfigComponent.cs:line 13
+   at Model.ObjectEvents.Awake[P1,P2](Disposer disposer, P1 p1, P2 p2) in D:\WorkProjects\Server\Model\Base\Object\ObjectEvents.cs:line 164
+   at Model.ComponentFactory.Create[T,A,B](Entity entity, A a, B b) in D:\WorkProjects\Unity\Assets\Scripts\Base\Object\ComponentFactory.cs:line 25
+   at Model.Entity.AddComponent[K,P1,P2](P1 p1, P2 p2) in D:\WorkProjects\Unity\Assets\Scripts\Base\Object\Entity.cs:line 99
+   at App.Program.Main(String[] args) in D:\WorkProjects\Server\App\Program.cs:line 25
+2017-12-23 19:45:33.9875   (Program.cs:25) System.IO.FileNotFoundException: Could not find file 'D:\WorkProjects\Config\StartConfig\192.168.10.224.txt'.
+File name: 'D:\WorkProjects\Config\StartConfig\192.168.10.224.txt'
+   at System.IO.FileStream.OpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Model.StartConfigComponent.Awake(String path, Int32 appId) in D:\WorkProjects\Server\Model\Component\StartConfigComponent.cs:line 39
+   at Model.StartConfigComponentEvent.Awake(String a, Int32 b) in D:\WorkProjects\Server\Model\Component\StartConfigComponent.cs:line 13
+   at Model.ObjectEvents.Awake[P1,P2](Disposer disposer, P1 p1, P2 p2) in D:\WorkProjects\Server\Model\Base\Object\ObjectEvents.cs:line 164
+   at Model.ComponentFactory.Create[T,A,B](Entity entity, A a, B b) in D:\WorkProjects\Unity\Assets\Scripts\Base\Object\ComponentFactory.cs:line 25
+   at Model.Entity.AddComponent[K,P1,P2](P1 p1, P2 p2) in D:\WorkProjects\Unity\Assets\Scripts\Base\Object\Entity.cs:line 99
+   at App.Program.Main(String[] args) in D:\WorkProjects\Server\App\Program.cs:line 25

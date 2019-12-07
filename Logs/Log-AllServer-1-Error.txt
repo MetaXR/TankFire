@@ -1,0 +1,835 @@
+2017-12-12 17:36:54.8688 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-12 18:39:19.2899 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-15 14:53:59.9552 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-15 14:54:02.9576 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-15 15:14:35.0166 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-21 17:05:40.9571 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-22 18:24:36.1325 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-22 18:41:37.1786 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-22 18:43:05.7779 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-22 18:56:10.4742 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-22 18:56:11.9246 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-22 19:17:45.8871 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-22 19:21:31.3747 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-22 19:22:50.7698 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-22 19:24:47.4622 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-22 19:51:52.9618 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\Github\ET\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 13:53:37.3750 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 13:53:41.4210 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 14:12:19.7992 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 14:12:22.0246 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 14:12:23.1988 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 14:17:59.0697 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 15:18:48.6251 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 17:46:14.6957 AllServer 001 (Program.cs:97) System.Exception: 127.0.0.1:20000 ---> System.Net.Sockets.SocketException: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at System.Net.Sockets.TcpListener.Start()
+   at Model.TService..ctor(IPEndPoint ipEndPoint) in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TService.cs:line 24
+   at Model.NetworkComponent.Awake(NetworkProtocol protocol, IPEndPoint ipEndPoint) in D:\WorkProjects\Unity\Assets\Scripts\Component\NetworkComponent.cs:line 46
+   --- End of inner exception stack trace ---
+   at Model.NetworkComponent.Awake(NetworkProtocol protocol, IPEndPoint ipEndPoint) in D:\WorkProjects\Unity\Assets\Scripts\Component\NetworkComponent.cs:line 62
+   at Hotfix.NetInnerComponentSystem.Awake(NetInnerComponent self, IPEndPoint ipEndPoint) in D:\WorkProjects\Server\Hotfix\System\NetInnerComponentSystem.cs:line 37
+   at Hotfix.NetInnerComponentEvent.Awake(IPEndPoint ipEndPoint) in D:\WorkProjects\Server\Hotfix\System\NetInnerComponentSystem.cs:line 16
+   at Model.ObjectEvents.Awake[P1](Disposer disposer, P1 p1) in D:\WorkProjects\Server\Model\Base\Object\ObjectEvents.cs:line 149
+   at Model.ComponentFactory.Create[T,A](Entity entity, A a) in D:\WorkProjects\Unity\Assets\Scripts\Base\Object\ComponentFactory.cs:line 17
+   at Model.Entity.AddComponent[K,P1](P1 p1) in D:\WorkProjects\Unity\Assets\Scripts\Base\Object\Entity.cs:line 77
+   at App.Program.Main(String[] args) in D:\WorkProjects\Server\App\Program.cs:line 97
+2017-12-23 19:25:26.7978 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60730 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:56.0011 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60735 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:56.8567 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60736 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:57.0204 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60737 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:57.1774 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60738 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:57.3408 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60739 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:57.5008 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60740 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:57.6374 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60741 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:57.7871 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60742 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:57.9212 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60743 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:58.2661 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60744 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:58.4430 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60745 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:58.6683 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60746 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:58.7874 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60747 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:58.9389 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60748 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:59.1066 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60749 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:59.2380 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60750 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:59.4262 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60751 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:59.6049 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60752 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:59.7801 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60753 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:25:59.9459 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60754 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:26:00.0986 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60755 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:26:00.2411 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60756 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:26:00.4098 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60757 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:26:00.5598 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60758 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:26:00.7208 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60759 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:26:00.8809 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60760 101 System.IO.EndOfStreamException: Attempted to read past the end of the stream.
+   at MongoDB.Bson.IO.BsonStreamAdapter.ReadCStringBytes() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonStreamAdapter.cs:line 297
+   at MongoDB.Bson.IO.BsonTrie`1.TryGetNode(BsonStream stream, BsonTrieNode`1& node) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonTrie.cs:line 111
+   at MongoDB.Bson.IO.TrieNameDecoder`1.Decode(BsonStream stream, UTF8Encoding encoding) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\TrieNameDecoder.cs:line 81
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadName(INameDecoder nameDecoder) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 477
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 163
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:28:30.5152 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60792 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:29:52.4281 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60811 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:29:54.0380 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60812 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:29:54.1776 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60813 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:29:54.3338 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60814 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:29:54.4625 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60815 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:29:54.6126 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60816 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:14.8903 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60830 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:15.8913 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60831 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:16.0355 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60832 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:16.1867 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60833 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:16.3523 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60834 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:16.5160 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60835 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:16.6731 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60836 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:16.8263 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60837 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:16.9719 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60838 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:17.1344 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60839 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:19.3124 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60840 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:19.4577 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60841 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:19.6158 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60842 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:31:19.7520 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60843 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:32:21.9030 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60848 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:32:39.4582 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60861 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 19:35:21.4532 AllServer 001 (Session.cs:128) message deserialize error, ip: 192.168.10.224:60864 101 System.FormatException: Detected unknown BSON type "\x0c" for fieldname "?". Are you using the latest driver version?
+   at MongoDB.Bson.IO.BsonBinaryReader.ReadBsonType() in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\IO\BsonBinaryReader.cs:line 215
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.DeserializeClass(BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 160
+   at MongoDB.Bson.Serialization.BsonClassMapSerializer`1.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\BsonClassMapSerializer.cs:line 100
+   at MongoDB.Bson.Serialization.Serializers.SerializerBase`1.MongoDB.Bson.Serialization.IBsonSerializer.Deserialize(BsonDeserializationContext context, BsonDeserializationArgs args) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\Serializers\SerializerBase.cs:line 119
+   at MongoDB.Bson.Serialization.IBsonSerializerExtensions.Deserialize(IBsonSerializer serializer, BsonDeserializationContext context) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\IBsonSerializerExtensions.cs:line 36
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(IBsonReader bsonReader, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 207
+   at MongoDB.Bson.Serialization.BsonSerializer.Deserialize(Stream stream, Type nominalType, Action`1 configurator) in D:\WorkProjects\Server\ThirdParty\MongodbDriver\MongoDB.Bson\Serialization\BsonSerializer.cs:line 237
+   at Model.MongoHelper.FromBson(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Helper\MongoHelper.cs:line 51
+   at Model.MongoPacker.DeserializeFrom(Type type, Byte[] bytes, Int32 index, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Base\Message\MongoPacker.cs:line 24
+   at Model.Session.RunDecompressedBytes(UInt16 opcode, Byte[] messageBytes, Int32 offset, Int32 count) in D:\WorkProjects\Unity\Assets\Scripts\Entity\Session.cs:line 128
+2017-12-23 20:21:15.0097 AllServer 001 (TChannel.cs:158) System.IO.IOException: Unable to transfer data on the transport connection: 远程主机强迫关闭了一个现有的连接。. ---> System.Net.Sockets.SocketException: 远程主机强迫关闭了一个现有的连接。
+   --- End of inner exception stack trace ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 22:35:54.5225 AllServer 001 (AMRpcHandler.cs:9) System.Exception: AddComponent, component already exist, id: 99224105975810, component: FireTankComponent
+   at Model.Entity.AddComponent[K]() in D:\WorkProjects\Unity\Assets\Scripts\Base\Object\Entity.cs:line 62
+   at Hotfix.G2M_CreateUnitHandler.<Run>d__0.MoveNext() in D:\WorkProjects\Server\Hotfix\Handler\G2M_CreateUnitHandler.cs:line 37
+2017-12-23 22:38:59.5794 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 22:39:57.1594 AllServer 001 (AMRpcHandler.cs:9) System.Exception: AddComponent, component already exist, id: 99224122294274, component: FireTankComponent
+   at Model.Entity.AddComponent[K]() in D:\WorkProjects\Unity\Assets\Scripts\Base\Object\Entity.cs:line 62
+   at Hotfix.G2M_CreateUnitHandler.<Run>d__0.MoveNext() in D:\WorkProjects\Server\Hotfix\Handler\G2M_CreateUnitHandler.cs:line 37
+2017-12-23 22:46:11.2338 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-23 22:59:49.5386 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-24 20:33:46.5903 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-24 21:33:41.1948 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 13:52:24.3624 AllServer 001 (AMRpcHandler.cs:9) System.NullReferenceException: Object reference not set to an instance of an object.
+   at Hotfix.G2M_CreateUnitHandler.<Run>d__0.MoveNext() in D:\WorkProjects\Server\Hotfix\Handler\G2M_CreateUnitHandler.cs:line 39
+2017-12-25 13:56:40.8141 AllServer 001 (AMRpcHandler.cs:9) System.NullReferenceException: Object reference not set to an instance of an object.
+   at Hotfix.G2M_CreateUnitHandler.<Run>d__0.MoveNext() in D:\WorkProjects\Server\Hotfix\Handler\G2M_CreateUnitHandler.cs:line 39
+2017-12-25 13:56:59.4239 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 13:59:39.7326 AllServer 001 (AMRpcHandler.cs:9) System.NullReferenceException: Object reference not set to an instance of an object.
+   at Hotfix.G2M_CreateUnitHandler.<Run>d__0.MoveNext() in D:\WorkProjects\Server\Hotfix\Handler\G2M_CreateUnitHandler.cs:line 39
+2017-12-25 14:00:39.6115 AllServer 001 (AMRpcHandler.cs:9) System.NullReferenceException: Object reference not set to an instance of an object.
+   at Hotfix.G2M_CreateUnitHandler.<Run>d__0.MoveNext() in D:\WorkProjects\Server\Hotfix\Handler\G2M_CreateUnitHandler.cs:line 39
+2017-12-25 14:02:19.3638 AllServer 001 (AMRpcHandler.cs:9) System.NullReferenceException: Object reference not set to an instance of an object.
+   at Hotfix.G2M_CreateUnitHandler.<Run>d__0.MoveNext() in D:\WorkProjects\Server\Hotfix\Handler\G2M_CreateUnitHandler.cs:line 39
+2017-12-25 14:16:43.1440 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 14:48:36.8359 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 15:52:08.3965 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 15:58:37.3032 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 16:04:10.2874 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 16:09:09.9315 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 16:15:21.0546 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 16:25:08.4979 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 16:25:09.9898 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 16:27:43.2254 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 16:27:45.9607 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 16:33:35.8653 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 16:33:37.1287 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 18:10:31.1572 AllServer 001 (AMActorHandler.cs:21) Actor类型转换错误: Unit to FireTank
+2017-12-25 18:10:40.8697 AllServer 001 (AMActorHandler.cs:21) Actor类型转换错误: Unit to FireTank
+2017-12-25 18:11:07.7973 AllServer 001 (AMActorHandler.cs:21) Actor类型转换错误: Unit to FireTank
+2017-12-25 18:11:25.1590 AllServer 001 (AMActorHandler.cs:21) Actor类型转换错误: Unit to FireTank
+2017-12-25 18:11:35.9905 AllServer 001 (AMActorHandler.cs:21) Actor类型转换错误: Unit to FireTank
+2017-12-25 18:11:47.4423 AllServer 001 (AMActorHandler.cs:21) Actor类型转换错误: Unit to FireTank
+2017-12-25 18:11:57.9267 AllServer 001 (AMActorHandler.cs:21) Actor类型转换错误: Unit to FireTank
+2017-12-25 18:12:08.9566 AllServer 001 (AMActorHandler.cs:21) Actor类型转换错误: Unit to FireTank
+2017-12-25 18:12:19.9937 AllServer 001 (AMActorHandler.cs:21) Actor类型转换错误: Unit to FireTank
+2017-12-25 18:18:51.8139 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 18:20:27.3306 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 18:28:29.8605 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 18:28:33.9982 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 18:37:07.4546 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 18:37:13.9360 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158
+2017-12-25 19:13:11.2927 AllServer 001 (TChannel.cs:158) System.InvalidOperationException: The operation is not allowed on non-connected sockets.
+   at System.Net.Sockets.TcpClient.GetStream()
+   at Model.TChannel.<StartSend>d__14.MoveNext() in D:\WorkProjects\Unity\Assets\Scripts\Base\Network\TNet\TChannel.cs:line 158

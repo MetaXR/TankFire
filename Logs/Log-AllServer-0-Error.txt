@@ -1,0 +1,90 @@
+2017-12-23 19:48:54.0647 AllServer 000 (Program.cs:119) Model.RpcException: Error: 106 Message: 
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.LocationProxyComponent.<Get>d__7.MoveNext() in D:\WorkProjects\Server\Model\Component\LocationProxyComponent.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.ActorProxy.<Start>d__11.MoveNext() in D:\WorkProjects\Server\Model\Entity\ActorProxy.cs:line 147
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Model.OneThreadSynchronizationContext.<>c__DisplayClass3_0.<Post>b__0() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 32
+   at Model.OneThreadSynchronizationContext.Update() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 26
+   at App.Program.Main(String[] args) in D:\WorkProjects\Server\App\Program.cs:line 119
+2017-12-23 19:49:04.0962 AllServer 000 (Program.cs:119) Model.RpcException: Error: 106 Message: 
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.LocationProxyComponent.<Get>d__7.MoveNext() in D:\WorkProjects\Server\Model\Component\LocationProxyComponent.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.ActorProxy.<Start>d__11.MoveNext() in D:\WorkProjects\Server\Model\Entity\ActorProxy.cs:line 147
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Model.OneThreadSynchronizationContext.<>c__DisplayClass3_0.<Post>b__0() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 32
+   at Model.OneThreadSynchronizationContext.Update() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 26
+   at App.Program.Main(String[] args) in D:\WorkProjects\Server\App\Program.cs:line 119
+2017-12-23 19:49:14.1099 AllServer 000 (Program.cs:119) Model.RpcException: Error: 106 Message: 
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.LocationProxyComponent.<Get>d__7.MoveNext() in D:\WorkProjects\Server\Model\Component\LocationProxyComponent.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.ActorProxy.<Start>d__11.MoveNext() in D:\WorkProjects\Server\Model\Entity\ActorProxy.cs:line 147
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Model.OneThreadSynchronizationContext.<>c__DisplayClass3_0.<Post>b__0() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 32
+   at Model.OneThreadSynchronizationContext.Update() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 26
+   at App.Program.Main(String[] args) in D:\WorkProjects\Server\App\Program.cs:line 119
+2017-12-23 19:49:25.1284 AllServer 000 (Program.cs:119) Model.RpcException: Error: 106 Message: 
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.LocationProxyComponent.<Get>d__7.MoveNext() in D:\WorkProjects\Server\Model\Component\LocationProxyComponent.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.ActorProxy.<Start>d__11.MoveNext() in D:\WorkProjects\Server\Model\Entity\ActorProxy.cs:line 147
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Model.OneThreadSynchronizationContext.<>c__DisplayClass3_0.<Post>b__0() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 32
+   at Model.OneThreadSynchronizationContext.Update() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 26
+   at App.Program.Main(String[] args) in D:\WorkProjects\Server\App\Program.cs:line 119
+2017-12-23 19:49:36.1278 AllServer 000 (Program.cs:119) Model.RpcException: Error: 106 Message: 
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.LocationProxyComponent.<Get>d__7.MoveNext() in D:\WorkProjects\Server\Model\Component\LocationProxyComponent.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.ActorProxy.<Start>d__11.MoveNext() in D:\WorkProjects\Server\Model\Entity\ActorProxy.cs:line 147
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Model.OneThreadSynchronizationContext.<>c__DisplayClass3_0.<Post>b__0() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 32
+   at Model.OneThreadSynchronizationContext.Update() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 26
+   at App.Program.Main(String[] args) in D:\WorkProjects\Server\App\Program.cs:line 119
+2017-12-23 19:49:47.1551 AllServer 000 (Program.cs:119) Model.RpcException: Error: 106 Message: 
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.LocationProxyComponent.<Get>d__7.MoveNext() in D:\WorkProjects\Server\Model\Component\LocationProxyComponent.cs:line 56
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Model.ActorProxy.<Start>d__11.MoveNext() in D:\WorkProjects\Server\Model\Entity\ActorProxy.cs:line 147
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Model.OneThreadSynchronizationContext.<>c__DisplayClass3_0.<Post>b__0() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 32
+   at Model.OneThreadSynchronizationContext.Update() in D:\WorkProjects\Server\Model\Other\OneThreadSynchronizationContext.cs:line 26
+   at App.Program.Main(String[] args) in D:\WorkProjects\Server\App\Program.cs:line 119
