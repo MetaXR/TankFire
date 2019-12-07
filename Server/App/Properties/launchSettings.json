@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Server.App": {
+      "commandName": "Project",
+      "commandLineArgs": "--appId=1 --appType=Mananger --config=../Config/StartConfig/LandlordsCore.txt",
+      "workingDirectory": "../../Bin"
+    }
+  }
+}
