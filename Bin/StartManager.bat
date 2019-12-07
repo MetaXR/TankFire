@@ -1,0 +1,1 @@
+start "Manager" dotnet App.dll --appId=1 --appType=Manager --config=../Config/StartConfig/LandlordsCore.txt"
