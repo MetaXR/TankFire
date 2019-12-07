@@ -1,0 +1,5 @@
+int	string	string	string	string	
+内部ID	标题	描述	路径	图片路径	
+id	title	desc	prefab	imgPath	
+1	泡沫灭火剂	泡沫用于覆盖灭火，快速灭火。	Model/18migaopenxiaofengche_mol	equipImg/paomomiehuoji	
+2	冷却用水	冷却水用于冷却灭火。	Model/Yidongshishuiqiang_mol	equipImg/lengqueyongshui	

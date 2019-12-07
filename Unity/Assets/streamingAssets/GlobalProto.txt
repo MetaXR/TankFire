@@ -1,0 +1,1 @@
+{ "_t" : "GlobalProto", "AssetBundleServerUrl" : "http://118.89.200.158:8080/", "Address" : "118.89.200.158:10004", "RealmAddress" : "118.89.200.158:10004", "GateAddress" : "118.89.200.158:10005" }

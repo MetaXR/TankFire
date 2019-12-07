@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 0338574d478cdf64d93a76e2473b905e
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: 40minxiaofangche
+    100004: 40mixiaofaangche
+    100006: 40mixiaofaangche01
+    100008: 40mixiaofaangche02
+    100010: 40mixiaofaangche03
+    100012: 40mixiaofangche
+    100014: 40mixiaofangche_boli
+    100016: 40mixiaofangche_lun01
+    100018: 40mixiaofangche_lun02
+    100020: 40mixiaofangche_lun03
+    100022: //RootNode
+    100024: Object01
+    400000: ' 1'
+    400002: 40minxiaofangche
+    400004: 40mixiaofaangche
+    400006: 40mixiaofaangche01
+    400008: 40mixiaofaangche02
+    400010: 40mixiaofaangche03
+    400012: 40mixiaofangche
+    400014: 40mixiaofangche_boli
+    400016: 40mixiaofangche_lun01
+    400018: 40mixiaofangche_lun02
+    400020: 40mixiaofangche_lun03
+    400022: //RootNode
+    400024: Object01
+    2300000: ' 1'
+    2300002: 40minxiaofangche
+    2300004: 40mixiaofaangche
+    2300006: 40mixiaofaangche01
+    2300008: 40mixiaofaangche02
+    2300010: 40mixiaofaangche03
+    2300012: 40mixiaofangche
+    2300014: 40mixiaofangche_boli
+    2300016: 40mixiaofangche_lun01
+    2300018: 40mixiaofangche_lun02
+    2300020: 40mixiaofangche_lun03
+    2300022: Object01
+    3300000: ' 1'
+    3300002: 40minxiaofangche
+    3300004: 40mixiaofaangche
+    3300006: 40mixiaofaangche01
+    3300008: 40mixiaofaangche02
+    3300010: 40mixiaofaangche03
+    3300012: 40mixiaofangche
+    3300014: 40mixiaofangche_boli
+    3300016: 40mixiaofangche_lun01
+    3300018: 40mixiaofangche_lun02
+    3300020: 40mixiaofangche_lun03
+    3300022: Object01
+    4300000: 40mixiaofangche
+    4300002: 40mixiaofangche_lun01
+    4300004: 40mixiaofangche_lun02
+    4300006: 40mixiaofangche_lun03
+    4300008: boli
+    4300010: 40mixiaofangche_boli
+    4300012: Object01
+    4300016: 40mixiaofaangche
+    4300018: 40mixiaofaangche01
+    4300020: 40minxiaofangche
+    4300022: 40mixiaofaangche02
+    4300024: 40mixiaofaangche03
+    6400000: ' 1'
+    6400002: 40minxiaofangche
+    6400004: 40mixiaofaangche
+    6400006: 40mixiaofaangche01
+    6400008: 40mixiaofaangche02
+    6400010: 40mixiaofaangche03
+    6400012: 40mixiaofangche
+    6400014: 40mixiaofangche_boli
+    6400016: 40mixiaofangche_lun01
+    6400018: 40mixiaofangche_lun02
+    6400020: 40mixiaofangche_lun03
+    6400022: Object01
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

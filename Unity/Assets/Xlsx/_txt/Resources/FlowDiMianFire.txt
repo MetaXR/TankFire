@@ -1,0 +1,8 @@
+int	string	string	string	string	float	int	
+内部ID	标题	描述	执行动画函数	Button名字	等待时间	nextid	
+id	title	desc	functions	functionsBtnName	waitTime	nextid	
+1	<color=#fff24fff>初始状态</color>	出现了地面流淌火，并且一直持续燃烧中……	Canvas_WDXFire,StepAnim1	<color=#fff22fff>侦查火情</color>	5	2	
+2	<color=#fff22fff>侦查火情</color>	发现油罐周围出现地面流淌火100m2，无人员被困情况，向知情人员了解情况得知，存储油品为汽油，固定灭火设施遭到破坏，风力2级，天气温度15度。	Canvas_WDXFire,StepAnim2	<color=#fff23fff>设置消防水枪</color>	10	3	
+3	<color=#fff22fff>消防装备</color>	冷却水枪，用于油罐冷却，泡沫枪喷射泡沫液用于覆盖灭火，请选择；到上或侧上风口位置点就位，所有消防员须喷射同一个点。	Canvas_WDXFire,StepAnim3	<color=#fff24fff>开始灭火</color>	20	0	
+4	<color=#fff22fff>灭地面流淌火</color>	开始灭火中，消防员喷射同一点，喷射一段时间，火逐渐熄灭…	Canvas_WDXFire,StepAnim4	<color=#fff24fff>确定</color>	5	0	
+5	<color=#fff22fff>灭火完成</color>	恭喜你，灭火任务完成，请点击右上角主页按钮选择其他实验进行学习！	Canvas_WDXFire,StepAnim5	<color=#fff25fff>知道了</color>	5	0	

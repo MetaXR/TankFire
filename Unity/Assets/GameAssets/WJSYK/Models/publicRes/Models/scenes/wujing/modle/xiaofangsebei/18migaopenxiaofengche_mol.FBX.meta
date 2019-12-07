@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: d782aca11f1aca0419f9a80c3b08bdfa
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 04
+    100002: 18mgaopenxiaofangche_lunzi
+    100004: 18mgaopenxiaofangche_lunzi01
+    100006: 18mgaopenxiaofangche_lunzi02
+    100008: 18mgaopenxiaofangche_lunzi03
+    100010: 18migaopenxiaofengche
+    100012: 18migaopenxiaofengche01
+    100014: 18migaopenxiaofengche02
+    100016: 18migaopenxiaofengche03
+    100018: 18migaopenxiaofengche04
+    100020: 18migaopenxiaofengche_01
+    100022: //RootNode
+    100024: Object01
+    400000: 04
+    400002: 18mgaopenxiaofangche_lunzi
+    400004: 18mgaopenxiaofangche_lunzi01
+    400006: 18mgaopenxiaofangche_lunzi02
+    400008: 18mgaopenxiaofangche_lunzi03
+    400010: 18migaopenxiaofengche
+    400012: 18migaopenxiaofengche01
+    400014: 18migaopenxiaofengche02
+    400016: 18migaopenxiaofengche03
+    400018: 18migaopenxiaofengche04
+    400020: 18migaopenxiaofengche_01
+    400022: //RootNode
+    400024: Object01
+    2300000: 04
+    2300002: 18mgaopenxiaofangche_lunzi01
+    2300004: 18mgaopenxiaofangche_lunzi02
+    2300006: 18mgaopenxiaofangche_lunzi03
+    2300008: 18migaopenxiaofengche
+    2300010: 18migaopenxiaofengche01
+    2300012: 18migaopenxiaofengche02
+    2300014: 18migaopenxiaofengche03
+    2300016: 18migaopenxiaofengche04
+    2300018: 18migaopenxiaofengche_01
+    2300020: Object01
+    3300000: 04
+    3300002: 18mgaopenxiaofangche_lunzi01
+    3300004: 18mgaopenxiaofangche_lunzi02
+    3300006: 18mgaopenxiaofangche_lunzi03
+    3300008: 18migaopenxiaofengche
+    3300010: 18migaopenxiaofengche01
+    3300012: 18migaopenxiaofengche02
+    3300014: 18migaopenxiaofengche03
+    3300016: 18migaopenxiaofengche04
+    3300018: 18migaopenxiaofengche_01
+    3300020: Object01
+    4300000: 18migaopenxiaofengche
+    4300002: 18migaopenxiaofengche_01
+    4300004: 18mgaopenxiaofangche_lunzi01
+    4300006: 18mgaopenxiaofangche_lunzi02
+    4300008: 18mgaopenxiaofangche_lunzi03
+    4300010: 04
+    4300012: 18migaopenxiaofengche04
+    4300014: 18migaopenxiaofengche01
+    4300016: 18migaopenxiaofengche02
+    4300018: Object01
+    4300020: 18migaopenxiaofengche03
+    6400000: 04
+    6400002: 18mgaopenxiaofangche_lunzi01
+    6400004: 18mgaopenxiaofangche_lunzi02
+    6400006: 18mgaopenxiaofangche_lunzi03
+    6400008: 18migaopenxiaofengche
+    6400010: 18migaopenxiaofengche01
+    6400012: 18migaopenxiaofengche02
+    6400014: 18migaopenxiaofengche03
+    6400016: 18migaopenxiaofengche04
+    6400018: 18migaopenxiaofengche_01
+    6400020: Object01
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

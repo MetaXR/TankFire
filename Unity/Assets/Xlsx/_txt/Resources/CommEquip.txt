@@ -1,0 +1,15 @@
+int	string	string	string	string	
+内部ID	标题	描述	路径	图片路径	
+id	title	desc	prefab	imgPath	
+1	消防车	通常会配备钢梯、水枪、便携式灭火器、自持式呼吸器、防护服、破拆工具、急救工具等装备，部分的还会搭载水箱、水泵、泡沫灭火装置等大型灭火设备。	Model/CommEquip/18migaopenxiaofengche_mol	equipImg/xiaofangche	
+2	推车式干粉灭火器	推车贮压式ABC干粉灭火器内部装有磷酸铵盐干粉灭火剂和氮气。	Model/CommEquip/Yidongshishuiqiang_mol	equipImg/tuichepaomoqi	
+3	消防水炮	消防水炮以水作介质，是远距离灭火设备。分为：自动扫描射水高空水炮、固体手动消防水炮、自动寻消防水炮、电控消防水炮。	Model/CommEquip/ShuipaoA_02_mol	equipImg/dashuipao	
+4	消防沙池	消防沙池的布置位置应设计在保护场所易发现的位置，不能被建筑物遮挡，而且消防沙池上必须要有醒目的标识，以及沙池旁边必须配置消防铲和消防桶。	Model/CommEquip/xiaofangshaxiang_xiugai_mol	equipImg/shachi	
+5	移动式泡沫炮	炮身可作水平回转、俯仰转动，可实现定位锁紧，并可折叠，存放空间小。通常配备在消防车上能供给泡沫混合液的消防泵上；它适用于消防车不能进入的火场。	Model/CommEquip/yidongpaomopao	equipImg/yidongxiaofangpao	
+6	涡喷消防车	通常会配备钢梯、水枪、便携式灭火器、自持式呼吸器、防护服、破拆工具、急救工具等装备，部分的还会搭载水箱、水泵、泡沫灭火装置等大型灭火设备。	Model/CommEquip/wopenxiaofangche_mol	equipImg/wopenxiaofangche	
+7	泡沫消防泵	主要用于消防系统增压送水，输送液体的流量范围为5～80L／s，压力范围为0.2～2．25MPa，配套功率范围为1．5~200kW，口径范围为Ф50～Ф250mm。	Model/CommEquip/paomoxiaofangbeng	equipImg/paomoxiaofangbeng	
+8	手提式干粉灭火器	用以扑救固体材料火（A类）、可燃液体火（B类）、可燃气体火（C类）及一般电器类火灾。操作：先拔下保险销，拉出喷管，然后对准火焰根部左右扫射，适用一扑救初期火灾。	Model/CommEquip/shoutishiganfenmiehuoqi	equipImg/shoutishiganfenmiehuoqi	
+9	对讲机	一种双向移动通信工具，在不需要任何网络支持的情况下，就可以通话，没有话费产生，适用于相对固定且频繁通话的场合。	Model/CommEquip/duijiangji	equipImg/duijiangji	
+10	消防锨	在消防铲（或消防锨）手柄上，一般都会刷红色油漆，用以标记消防锨（或消防铲）与其他铁锨（或铁铲）的区别。	Model/CommEquip/chanzi	equipImg/chanzi	
+11	防爆手电筒	强光防爆手电筒英文型号：LJW7620中文品牌：隆鑫照明产品别名：强光防爆手电筒，LED防爆手电筒，防爆手电筒产品特点：防爆，袖珍，超长放电，LED新光源，防水设计	Model/CommEquip/shoudiantong_color	equipImg/shoudiantong_color	
+12	太平斧头/靴子/头盔	太平斧头/靴子/头盔	Model/CommEquip/taipingfu	equipImg/taipingfu	

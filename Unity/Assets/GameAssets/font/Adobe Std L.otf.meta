@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 19f60d7bd8fd9e748b3871dc09752bf4
+timeCreated: 1489754758
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adobe Song Std
+  fontNames:
+  - Adobe Song Std
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

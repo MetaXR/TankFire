@@ -1,0 +1,11 @@
+int	string	string	string	string	float	int	
+内部ID	标题	描述	执行动画函数	Button名字	等待时间	nextid	
+id	title	desc	functions	functionsBtnName	waitTime	nextid	
+1	<color=#fff22fff>指导思想</color>	指导思想：集中优势兵力打歼灭战；集中兵力逐次歼灭；合理部署兵力，统一指挥，协同作战，主动进攻，积极防御，装备使用上，以固为主，以移为辅，固定移动相结合。	Canvas_WDXFire,StepAnim1	<color=#fff22fff>下一步</color>	1	2	
+2	<color=#fff22fff>火情侦查</color>	一个正在稳定燃烧的浮顶油罐。品蒸汽从呼吸阀、采光孔、量油孔等处冒出，遇到火源会出现一种稳定性燃烧。	Canvas_WDXFire,StepAnim2	<color=#fff23fff>下一步</color>	1	3	
+3	<color=#fff22fff>消防装备</color>	冷却水枪，用于油罐冷却，泡沫枪喷射泡沫液用于覆盖灭火，请选择使用冷却水还是泡沫。	Canvas_WDXFire,StepAnim3	<color=#fff24fff>知道了</color>	1	0	
+4	<color=#fff22fff>空间位置</color>	空间位置上：1先外围后中间；2先地面后油罐；3先上风后下风。	Canvas_WDXFire,StepAnim4	<color=#fff24fff>下一步</color>	1	5	
+5	<color=#fff23fff>扑救程序</color>	扑救程序上：1先冷却后灭火；2边冷却边灭火；3只灭火不冷却。	Canvas_WDXFire,StepAnim5	<color=#fff25fff>下一步</color>	1	6	
+6	<color=#fff24fff>灭火时机</color>	从灭火时机上：1在高温油层形成之前；2在油表面温度降低之后（<100度）。	Canvas_WDXFire,StepAnim6	<color=#fff26fff>知道了</color>	0	7	
+7	<color=#fff22fff>油罐/中间灭火</color>	品蒸汽从呼吸阀、采光孔、量油孔等处冒出，遇到火源会出现一种稳定性燃烧。避开浓烟，减少对战斗人员的烘烤，发挥各种灭火剂的效能，加快灭火进程，降低油品复燃的几率。	Canvas_WDXFire,StepAnim9	<color=#fff22fff>知道了</color>	6	0	
+8	<color=#fff22fff>灭火完成</color>	恭喜你，灭火任务完成，请点击右上角主页按钮选择其他实验进行学习！	Canvas_WDXFire,StepAnim10	<color=#fff22fff>知道了</color>	6	0	

@@ -1,0 +1,8 @@
+int	string	string	string	string	float	int	
+内部ID	标题	描述	执行动画函数	Button名字	等待时间	nextid	
+id	title	desc	functions	functionsBtnName	waitTime	nextid	
+1	<color=#fff22fff>初始状态</color>	固定顶油罐正在燃烧中，需要对罐体进行冷却…	Canvas_WDXFire,StepAnim1	<color=#fff23fff>火情侦查</color>	5	2	
+2	<color=#fff22fff>火情侦查</color>	发现油罐程敞开式猛烈燃烧，有地面流淌火100m2，无人员被困情况，向知情人员了解情况得知，存储油品为汽油，固定灭火设施遭到破坏，风力2级，天气温度15度。	Canvas_WDXFire,StepAnim2	<color=#fff24fff>设置消防水枪</color>	10	3	
+3	<color=#fff22fff>冷却水枪设置</color>	冷却水枪，用于油罐冷却，泡沫枪喷射泡沫液用于覆盖灭火，请选择使用冷却水还是泡沫，建议消防员到上或侧上风口位置（场景中蓝色标志点）就位进行喷射冷却。	Canvas_WDXFire,StepAnim3	<color=#fff24fff>知道了</color>	20	0	
+4	<color=#fff22fff>开始油罐冷却</color>	开始进行油罐冷却；3名消防员同时喷射罐壁，经过一段时间，油罐逐渐冷却至常温。	Canvas_WDXFire,StepAnim4	<color=#fff24fff>知道了</color>	5	0	
+5	<color=#fff22fff>冷却完成</color>	恭喜你，油罐冷却完成，请点击右上角主页按钮选择其他实验进行学习！	Canvas_WDXFire,StepAnim4	<color=#fff24fff>知道了</color>	5	0	

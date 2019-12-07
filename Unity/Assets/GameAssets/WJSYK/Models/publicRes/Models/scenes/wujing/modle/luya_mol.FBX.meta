@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 32eaa7ff871682f41a7ace6a84bda502
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: dx-1
+    100004: dx-10
+    100006: dx-14
+    100008: dx-17
+    100010: dx-29
+    100012: dx-3
+    100014: dx-30
+    100016: dx-33
+    100018: dx-34
+    100020: dx-35
+    100022: dx-39
+    100024: dx-43
+    100026: dx-47
+    100028: dx-5
+    100030: dx-7
+    100032: dx-9
+    100034: luya
+    100036: malu_xiugai
+    100038: "\u3000\uE813\uE811"
+    100040: "\u7EC4001"
+    100042: "\uE814\uE812"
+    400000: //RootNode
+    400002: dx-1
+    400004: dx-10
+    400006: dx-14
+    400008: dx-17
+    400010: dx-29
+    400012: dx-3
+    400014: dx-30
+    400016: dx-33
+    400018: dx-34
+    400020: dx-35
+    400022: dx-39
+    400024: dx-43
+    400026: dx-47
+    400028: dx-5
+    400030: dx-7
+    400032: dx-9
+    400034: luya
+    400036: malu_xiugai
+    400038: "\u3000\uE813\uE811"
+    400040: "\u7EC4001"
+    400042: "\uE814\uE812"
+    2300000: //RootNode
+    2300002: dx-1
+    2300004: dx-10
+    2300006: dx-3
+    2300008: dx-33
+    2300010: dx-34
+    2300012: dx-35
+    2300014: dx-39
+    2300016: dx-47
+    2300018: dx-5
+    2300020: dx-7
+    2300022: luya
+    2300024: malu_xiugai
+    3300000: //RootNode
+    3300002: dx-1
+    3300004: dx-10
+    3300006: dx-3
+    3300008: dx-33
+    3300010: dx-34
+    3300012: dx-35
+    3300014: dx-39
+    3300016: dx-47
+    3300018: dx-5
+    3300020: dx-7
+    3300022: luya
+    3300024: malu_xiugai
+    4300000: luya
+    4300002: malu_xiugai
+    4300004: dx-47
+    4300006: dx-39
+    4300008: dx-35
+    4300010: dx-34
+    4300012: dx-33
+    4300014: dx-10
+    4300016: dx-7
+    4300018: dx-5
+    4300020: dx-3
+    4300022: dx-1
+    6400000: //RootNode
+    6400002: dx-1
+    6400004: dx-10
+    6400006: dx-3
+    6400008: dx-33
+    6400010: dx-34
+    6400012: dx-35
+    6400014: dx-39
+    6400016: dx-47
+    6400018: dx-5
+    6400020: dx-7
+    6400022: luya
+    6400024: malu_xiugai
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

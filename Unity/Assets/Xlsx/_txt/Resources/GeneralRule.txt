@@ -1,0 +1,18 @@
+int	string	string	string	string	string	string	float	int	
+内部ID	标题	描述	执行动画函数	执行动画函数	Button名字	Button名字	等待时间	nextid	
+id	title	desc	functions	functions2	functionsBtnName	functionsBtnName2	waitTime	nextid	
+1	<color=#fff22fff>初始状态</color>	当前风力2级，石油库厂区处于正常状态。	Canvas_Global,Step11	Canvas_Global,Step21	<color=#fff22fff>知道了</color>	<color=#fff22fff>上一步</color>	5	2	
+2	<color=#fff22fff>发生火灾</color>	由于未知原因，石油厂A区内浮顶罐灌顶开始爆炸燃烧……	Canvas_Global,Step12	Canvas_Global,Step22	<color=#fff23fff>火灾报警</color>	<color=#fff23fff>上一步</color>	5	3	
+3	<color=#fff22fff>火灾报警</color>	报警人：这里是石油库厂A区，有一个内浮顶罐灌顶炸开，正在燃烧中，等待火灾救援…	Canvas_Global,Step13	Canvas_Global,Step23	<color=#fff24fff>确定</color>	<color=#fff24fff>上一步</color>	5	4	
+4	<color=#fff22fff>接警人员</color>	接警人员：不要着急，请到厂区门口等待，我们批准灭火力量后，预计55分钟后到达现场，请保持通信畅通。	Canvas_Global,Step14	Canvas_Global,Step24	<color=#fff24fff>开启固定消防</color>	<color=#fff24fff>上一步</color>	5	5	
+5	<color=#fff23fff>开启固定消防设施</color>	开启固定灭火系统,灌顶喷淋系统开始进行自动灭火。	Canvas_Global,Step15	Canvas_Global,Step25	<color=#fff25fff>确定</color>	<color=#fff26fff>失败</color>	10	14	
+6	<color=#fff24fff>地面流淌火</color>	出现了地面流淌火，并且一直持续燃烧中……	Canvas_Global,Step16	Canvas_Global,Step26	<color=#fff26fff>消防队到场</color>	<color=#fff27fff>上一步</color>	5	7	
+7	<color=#fff22fff>消防队到场</color>	泡沫消防车2辆，水罐消防车1辆，举高喷射消防车1辆已到达现场。	Canvas_Global,Step17	Canvas_Global,Step27	<color=#fff22fff>侦查火情</color>	<color=#fff28fff>上一步</color>	5	8	
+8	<color=#fff22fff>侦查火情</color>	发现油罐程敞开式猛烈燃烧，有地面流淌火100m2，无人员被困情况，向知情人员了解情况得知，存储油品为汽油，固定灭火设施遭到破坏，风力2级，天气温度15度。	Canvas_Global,Step18	Canvas_Global,Step28	<color=#fff22fff>灭地面流淌火</color>	<color=#fff29fff>上一步</color>	5	9	
+9	<color=#fff22fff>部署灭火力量</color>	灭地面流淌火,2个消防车出现流淌火的上或侧上风头位置（防火堤外路边），2组消防员出现位置在上风头，开始喷射泡沫，2组消防员对着一个点进行喷射，泡沫逐渐扩散，逐步覆盖火面，火逐渐熄灭。	Canvas_Global,Step19	Canvas_Global,Step29	<color=#fff22fff>灭油罐火</color>	<color=#fff30fff>上一步</color>	25	10	
+10	<color=#fff23fff>部署灭火力量</color>	灭灌顶火,新增1台带炮消防车，1台高举喷射车，举高车支架支起；再新增来2台供水车，此2台车各链接2条水带到前面2台车上,用以供水，2台车的炮同时喷射一个点，喷射一段时间，火逐渐熄灭。	Canvas_Global,Step110	Canvas_Global,Step210	<color=#fff23fff>冷却</color>	<color=#fff31fff>上一步</color>	25	11	
+11	<color=#fff22fff>火灭后冷却</color>	灭火后冷却，场景出现3台冷却车，对罐体进行喷射冷却，保证油罐冷却至常温才可停止，防止复燃。	Canvas_Global,Step111	Canvas_Global,Step211	<color=#fff22fff>知道了</color>	<color=#fff31fff>上一步</color>	25	12	
+12	<color=#fff22fff>灭火完成</color>	灭火完成。	Canvas_Global,Step112	Canvas_Global,Step212	<color=#fff22fff>知道了</color>	<color=#fff32fff>上一步</color>	5	0	
+13	<color=#fff22fff>灭火成功</color>	灭火成功，用冷却水喷淋油罐到常温状态。	Canvas_Global,Step113	Canvas_Global,Step213	<color=#fff22fff>完成</color>	<color=#fff33fff>上一步</color>	5	0	
+14	<color=#fff22fff>灭火失败</color>	固定消防设施被破坏，自动灭火失败，可能出现地面流淌火，急需部署灭火力量进行灭火…	Canvas_Global,Step114	Canvas_Global,Step214	<color=#fff22fff>出现地面流淌火</color>	<color=#fff34fff>上一步</color>	10	6	
+22fff>下一步</color>	<color=#fff34fff>上一步</color>	1	6	

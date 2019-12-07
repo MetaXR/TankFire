@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 9de4b457199c86847bca307efe94e558
+timeCreated: 1509678890
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: zhengfu-1
+    100004: zhengfu-10
+    100006: zhengfu-11
+    100008: zhengfu-11_MeshPart0
+    100010: zhengfu-11_MeshPart1
+    100012: zhengfu-12
+    100014: zhengfu-13
+    100016: zhengfu-14
+    100018: zhengfu-15
+    100020: zhengfu-16
+    100022: zhengfu-2
+    100024: zhengfu-3
+    100026: zhengfu-4
+    100028: zhengfu-5
+    100030: zhengfu-6
+    100032: zhengfu-7
+    100034: zhengfu-8
+    100036: zhengfu-9
+    400000: //RootNode
+    400002: zhengfu-1
+    400004: zhengfu-10
+    400006: zhengfu-11
+    400008: zhengfu-11_MeshPart0
+    400010: zhengfu-11_MeshPart1
+    400012: zhengfu-12
+    400014: zhengfu-13
+    400016: zhengfu-14
+    400018: zhengfu-15
+    400020: zhengfu-16
+    400022: zhengfu-2
+    400024: zhengfu-3
+    400026: zhengfu-4
+    400028: zhengfu-5
+    400030: zhengfu-6
+    400032: zhengfu-7
+    400034: zhengfu-8
+    400036: zhengfu-9
+    2300000: zhengfu-1
+    2300002: zhengfu-10
+    2300004: zhengfu-11_MeshPart0
+    2300006: zhengfu-11_MeshPart1
+    2300008: zhengfu-12
+    2300010: zhengfu-13
+    2300012: zhengfu-14
+    2300014: zhengfu-15
+    2300016: zhengfu-16
+    2300018: zhengfu-2
+    2300020: zhengfu-3
+    2300022: zhengfu-4
+    2300024: zhengfu-5
+    2300026: zhengfu-6
+    2300028: zhengfu-7
+    2300030: zhengfu-8
+    2300032: zhengfu-9
+    3300000: zhengfu-1
+    3300002: zhengfu-10
+    3300004: zhengfu-11_MeshPart0
+    3300006: zhengfu-11_MeshPart1
+    3300008: zhengfu-12
+    3300010: zhengfu-13
+    3300012: zhengfu-14
+    3300014: zhengfu-15
+    3300016: zhengfu-16
+    3300018: zhengfu-2
+    3300020: zhengfu-3
+    3300022: zhengfu-4
+    3300024: zhengfu-5
+    3300026: zhengfu-6
+    3300028: zhengfu-7
+    3300030: zhengfu-8
+    3300032: zhengfu-9
+    4300000: zhengfu-11_MeshPart0
+    4300002: zhengfu-11_MeshPart1
+    4300004: zhengfu-15
+    4300006: zhengfu-1
+    4300008: zhengfu-2
+    4300010: zhengfu-5
+    4300012: zhengfu-16
+    4300014: zhengfu-3
+    4300016: zhengfu-4
+    4300018: zhengfu-14
+    4300020: zhengfu-13
+    4300022: zhengfu-12
+    4300024: zhengfu-10
+    4300026: zhengfu-9
+    4300028: zhengfu-8
+    4300030: zhengfu-6
+    4300032: zhengfu-7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
